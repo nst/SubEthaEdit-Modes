@@ -7,6 +7,7 @@ Language | Version | Update Date | Comment | Author
  Dtrace ([zip](../../../raw/master/Modes/zipped/Dtrace.seemode.zip))     | 1.0.1     | 2014-06-24  | Mode for DTrace scripts |  [tbartelmess](https://github.com/tbartelmess)
  SQL ([zip](../../../raw/master/Modes/zipped/SQL.seemode.zip))     | 4.0     | 2014-07-09  | SQL Mode - ported from built-in SEE 3 Mode | [ellduin](https://github.com/ellduin)
  Thrift ([zip](../../../raw/master/Modes/zipped/Thrift.seemode.zip))     | 1.0     | 2014-06-22  | Mode for Apache thrift |  [tbartelmess](https://github.com/tbartelmess)
+ PostScript ([zip](../../../raw/master/Modes/zipped/PostScript.seemode.zip))     | 1.0     | 2025-04-05  | Mode for PostScript |  [nst](https://github.com/nst)
 
 # SubEthaEdit 4 Modes (probably outdated)
 
